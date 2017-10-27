@@ -1,0 +1,27 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="465537477"/>
+    <file name="index.css" crc="438014968" ref="index"/>
+    <file name="information.css" crc="435538027" ref="information"/>
+    <file name="contact.css" crc="4252513073" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:information:contact"/>
+    <file name="museutils.js" crc="3880880085" ref="index:information:contact"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:information:contact"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:information:contact"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:information:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="67.jpg" crc="4107396478" ref="information"/>
+    <file name="98.jpg" crc="4223189762" ref="contact"/>
+    <file name="444.jpg" crc="3856924397" ref="index"/>
+    <file name="888.png" crc="401176103" ref="information:contact:index"/>
+    <file name="favicon.ico" crc="251271483" ref="information"/>
+    <file name="contact-favicon.ico" crc="251271483" ref="contact"/>
+    <file name="consultant-.com-favicon.ico" crc="4164028628" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3949156508" mt="1508794673755" redirect="true"/>
+  <file name="information.html" crc="3865436852" mt="1508794673755" redirect="true"/>
+  <file name="contact.html" crc="455779369" mt="1508794673755" redirect="true"/>
+</manifest>
